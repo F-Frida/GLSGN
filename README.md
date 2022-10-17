@@ -5,7 +5,7 @@ Official pytorch codes for the paper:
 Tasks include image reflection removal, image deraining, and image dehazing.
 ## Network Architecture
 <div  align="center"> <img src="Figures/framework.png" alt="Cover" width="50%" align=center/> </div>
-​                          **The overall framework of our proposed GLSGN.**
+The overall framework of our proposed GLSGN.
 
 ## Laplacian Pyramid
 <div  align="center"> <img src="Figures/LP.png" alt="Cover" width="50%" align=center/> </div>
