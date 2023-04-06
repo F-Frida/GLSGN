@@ -2,7 +2,7 @@
 Official pytorch codes for the paper:
 - [Global-Local Stepwise Generative Network for Ultra High-Resolution Image Restoration](https://arxiv.org/pdf/2207.08808.pdf)
 
-The code and dataset will be released here as soon as possible.
+The code and dataset will be released here once our paper is accepcted.
 
 We conduct experiments on three challenging image restoration tasks: image reflection removal, image deraining, and image dehazing.
 ## Network Architecture
